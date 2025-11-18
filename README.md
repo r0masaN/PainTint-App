@@ -22,6 +22,10 @@
    - Выбор цвета с точной настройкой по RGB.  
   
 ## Системные требования  
-- Windows OS (тестировалось на Windows 10).   
+- Windows OS (тестировалось на Windows 10).
+
+![alt text](beauty.png)
+![alt text](cat.png)
+![alt text](house.png)
 
 ---  
